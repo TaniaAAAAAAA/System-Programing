@@ -1,0 +1,14 @@
+C:\Users\Tanuha\Desktop\Системне програмування\Async_Operations\obj\Debug\Async_Operations.csprojAssemblyReference.cache
+C:\Users\Tanuha\Desktop\Системне програмування\Async_Operations\obj\Debug\MainWindow.g.cs
+C:\Users\Tanuha\Desktop\Системне програмування\Async_Operations\obj\Debug\App.g.cs
+C:\Users\Tanuha\Desktop\Системне програмування\Async_Operations\obj\Debug\Async_Operations_MarkupCompile.cache
+C:\Users\Tanuha\Desktop\Системне програмування\Async_Operations\obj\Debug\Async_Operations_MarkupCompile.lref
+C:\Users\Tanuha\Desktop\Системне програмування\Async_Operations\bin\Debug\Async_Operations.exe.config
+C:\Users\Tanuha\Desktop\Системне програмування\Async_Operations\bin\Debug\Async_Operations.exe
+C:\Users\Tanuha\Desktop\Системне програмування\Async_Operations\bin\Debug\Async_Operations.pdb
+C:\Users\Tanuha\Desktop\Системне програмування\Async_Operations\obj\Debug\MainWindow.baml
+C:\Users\Tanuha\Desktop\Системне програмування\Async_Operations\obj\Debug\Async_Operations.g.resources
+C:\Users\Tanuha\Desktop\Системне програмування\Async_Operations\obj\Debug\Async_Operations.Properties.Resources.resources
+C:\Users\Tanuha\Desktop\Системне програмування\Async_Operations\obj\Debug\Async_Operations.csproj.GenerateResource.cache
+C:\Users\Tanuha\Desktop\Системне програмування\Async_Operations\obj\Debug\Async_Operations.exe
+C:\Users\Tanuha\Desktop\Системне програмування\Async_Operations\obj\Debug\Async_Operations.pdb
