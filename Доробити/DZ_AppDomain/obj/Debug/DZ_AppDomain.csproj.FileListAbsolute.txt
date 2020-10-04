@@ -1,0 +1,14 @@
+C:\Users\Tanuha\Desktop\Системне програмування\DZ_AppDomain\bin\Debug\DZ_AppDomain.exe.config
+C:\Users\Tanuha\Desktop\Системне програмування\DZ_AppDomain\bin\Debug\DZ_AppDomain.exe
+C:\Users\Tanuha\Desktop\Системне програмування\DZ_AppDomain\bin\Debug\DZ_AppDomain.pdb
+C:\Users\Tanuha\Desktop\Системне програмування\DZ_AppDomain\obj\Debug\DZ_AppDomain.csprojAssemblyReference.cache
+C:\Users\Tanuha\Desktop\Системне програмування\DZ_AppDomain\obj\Debug\MainWindow.g.cs
+C:\Users\Tanuha\Desktop\Системне програмування\DZ_AppDomain\obj\Debug\App.g.cs
+C:\Users\Tanuha\Desktop\Системне програмування\DZ_AppDomain\obj\Debug\DZ_AppDomain_MarkupCompile.cache
+C:\Users\Tanuha\Desktop\Системне програмування\DZ_AppDomain\obj\Debug\DZ_AppDomain_MarkupCompile.lref
+C:\Users\Tanuha\Desktop\Системне програмування\DZ_AppDomain\obj\Debug\MainWindow.baml
+C:\Users\Tanuha\Desktop\Системне програмування\DZ_AppDomain\obj\Debug\DZ_AppDomain.g.resources
+C:\Users\Tanuha\Desktop\Системне програмування\DZ_AppDomain\obj\Debug\DZ_AppDomain.Properties.Resources.resources
+C:\Users\Tanuha\Desktop\Системне програмування\DZ_AppDomain\obj\Debug\DZ_AppDomain.csproj.GenerateResource.cache
+C:\Users\Tanuha\Desktop\Системне програмування\DZ_AppDomain\obj\Debug\DZ_AppDomain.exe
+C:\Users\Tanuha\Desktop\Системне програмування\DZ_AppDomain\obj\Debug\DZ_AppDomain.pdb
