@@ -1,0 +1,33 @@
+﻿<Window x:Class="DZ_MAIL____.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DZ_MAIL____"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="105*"/>
+            <RowDefinition Height="76*"/>
+            <RowDefinition Height="84*"/>
+            <RowDefinition Height="92*"/>
+            <RowDefinition Height="63*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="156*"/>
+            <ColumnDefinition Width="469*"/>
+            <ColumnDefinition Width="169*"/>
+        </Grid.ColumnDefinitions>
+        <DockPanel Grid.Column="1" Grid.Row="1">
+            <Label FontSize="36" FontFamily="Algerian" VerticalContentAlignment="Center" Foreground="White">Login :</Label>
+            <TextBox x:Name="txtLogin" FontSize="20" FontFamily="Algerian" VerticalContentAlignment="Center"></TextBox>
+        </DockPanel>
+
+        <DockPanel Grid.Column="1" Grid.Row="2">
+            <Label  FontSize="36" FontFamily="Algerian" VerticalContentAlignment="Center" Foreground="White">Password :</Label>
+            <PasswordBox x:Name="txtPassword" FontSize="20" FontFamily="Algerian" VerticalContentAlignment="Center"></PasswordBox>
+        </DockPanel>
+        <Button x:Name="btnOk" Grid.Column="1" Grid.Row="3" Margin="70,10"  FontSize="36" FontFamily="Algerian" Background="#FF65CE24" Click="btnOk_Click" >Ok</Button>
+    </Grid>
+</Window>

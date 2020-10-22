@@ -1,0 +1,29 @@
+﻿<Window x:Class="DZ_MAIL____.NewLetter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DZ_MAIL____"
+        mc:Ignorable="d"
+        Title="NewLetter" Height="453.581" Width="580.371">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="53*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="43*"/>
+            <RowDefinition Height="211*"/>
+            <RowDefinition Height="68*"/>
+        </Grid.RowDefinitions>
+        <Label VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Pristina" FontSize="36" FontWeight="Bold">To : </Label>
+        <TextBox x:Name="txtTo" Grid.Column="1" VerticalContentAlignment="Center"  FontFamily="Pristina" FontSize="24"></TextBox>
+        <Label Grid.Row="1" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Pristina" FontSize="36" FontWeight="Bold">Title :</Label>
+        <TextBox x:Name="txtTitle" Grid.Column="1" Grid.Row="1" VerticalContentAlignment="Center"  FontFamily="Pristina" FontSize="24"></TextBox>
+        <Button x:Name="btnSend" Grid.Row="4" Margin="5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Pristina" FontSize="36" FontWeight="Bold" Background="#FF38C049" Click="btnSend_Click">Send</Button>
+        <TextBox x:Name="txtPole" Grid.Row="3" Grid.ColumnSpan="2" Margin="5" Background="#FF9BE8D6" FontFamily="Pristina" FontSize="18"></TextBox>
+        <Button Grid.Row="4" Grid.Column="1" Margin="5,5,200,5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Pristina" FontSize="36" FontWeight="Bold" Background="#FFBFC038" Click="Button_Click">Attachments</Button>
+    </Grid>
+</Window>
