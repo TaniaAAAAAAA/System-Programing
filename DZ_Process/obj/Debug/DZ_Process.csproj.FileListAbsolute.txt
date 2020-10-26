@@ -12,3 +12,17 @@ C:\Users\Tanuha\Desktop\Системне програмування\DZ_Process\o
 C:\Users\Tanuha\Desktop\Системне програмування\DZ_Process\obj\Debug\DZ_Process.csproj.GenerateResource.cache
 C:\Users\Tanuha\Desktop\Системне програмування\DZ_Process\obj\Debug\DZ_Process.exe
 C:\Users\Tanuha\Desktop\Системне програмування\DZ_Process\obj\Debug\DZ_Process.pdb
+C:\Users\Tanuha\Desktop\SystemPrograming\DZ_Process\bin\Debug\DZ_Process.exe.config
+C:\Users\Tanuha\Desktop\SystemPrograming\DZ_Process\bin\Debug\DZ_Process.exe
+C:\Users\Tanuha\Desktop\SystemPrograming\DZ_Process\bin\Debug\DZ_Process.pdb
+C:\Users\Tanuha\Desktop\SystemPrograming\DZ_Process\obj\Debug\DZ_Process.csprojAssemblyReference.cache
+C:\Users\Tanuha\Desktop\SystemPrograming\DZ_Process\obj\Debug\MainWindow.g.cs
+C:\Users\Tanuha\Desktop\SystemPrograming\DZ_Process\obj\Debug\App.g.cs
+C:\Users\Tanuha\Desktop\SystemPrograming\DZ_Process\obj\Debug\DZ_Process_MarkupCompile.cache
+C:\Users\Tanuha\Desktop\SystemPrograming\DZ_Process\obj\Debug\DZ_Process_MarkupCompile.lref
+C:\Users\Tanuha\Desktop\SystemPrograming\DZ_Process\obj\Debug\MainWindow.baml
+C:\Users\Tanuha\Desktop\SystemPrograming\DZ_Process\obj\Debug\DZ_Process.g.resources
+C:\Users\Tanuha\Desktop\SystemPrograming\DZ_Process\obj\Debug\DZ_Process.Properties.Resources.resources
+C:\Users\Tanuha\Desktop\SystemPrograming\DZ_Process\obj\Debug\DZ_Process.csproj.GenerateResource.cache
+C:\Users\Tanuha\Desktop\SystemPrograming\DZ_Process\obj\Debug\DZ_Process.exe
+C:\Users\Tanuha\Desktop\SystemPrograming\DZ_Process\obj\Debug\DZ_Process.pdb
