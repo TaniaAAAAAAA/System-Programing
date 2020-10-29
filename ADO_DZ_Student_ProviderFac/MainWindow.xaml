@@ -1,0 +1,31 @@
+﻿<Window x:Class="ADO_DZ_Student.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ADO_DZ_Student"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="54*"/>
+            <RowDefinition Height="308*"/>
+            <RowDefinition Height="59*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="244*"/>
+            <ColumnDefinition Width="296*"/>
+            <ColumnDefinition Width="253*"/>
+        </Grid.ColumnDefinitions>
+        <Button Grid.Column="0" Content="Add Student" FontSize="20" Margin="3,3,3,2.6" Background="Green" Click="Button_Click"></Button>
+        <Button Grid.Column="1" Content="Delete Student" FontSize="20" Margin="3,3,3,2.6" Background="Red" Click="Button_Click_1"></Button>
+        <Button Grid.Column="2" Content="Update Student" FontSize="20" Margin="3,3,2.6,2.6" Background="Yellow" Click="Button_Click_2"></Button>
+
+        <ListBox x:Name="lb_Students" Grid.Row="1" Grid.ColumnSpan="3" ItemsSource="{Binding Path=students_list}" Margin="0,0.4,-0.4,0" Grid.RowSpan="2">
+
+        </ListBox>
+
+        <Button Grid.Column="1" Grid.Row="2" Content="Update List" FontSize="20" Background="Yellow" Margin="5" Click="Button_Click_3"></Button>
+
+    </Grid>
+</Window>
